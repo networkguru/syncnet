@@ -2,7 +2,7 @@
     <wb-module deploy-name="syncnet">
         <wb-resource deploy-path="/" source-path="/WebContent" tag="defaultRootSource"/>
         <wb-resource deploy-path="/WEB-INF/classes" source-path="/src"/>
-        <property name="context-root" value="syncnet"/>
         <property name="java-output-path" value="/syncnet/build/classes"/>
+        <property name="context-root" value="ebizguru"/>
     </wb-module>
 </project-modules>
